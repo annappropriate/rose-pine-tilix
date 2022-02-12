@@ -13,23 +13,26 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Copy desired theme file(s) into the Tilir color sheme directory `~/.config/tilix/schemes/`
+2. Select the desired theme from a dropdown under a Color tab in your profile preferences
+
+You might need to restart Tilix for it to pick up the new theme files.
+
+Please refer to the [Tilix theme documentation](https://gnunn1.github.io/tilix-web/manual/themes/).
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+All screenshots feature [NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) and [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans).
+
+### Rosé Pine
+![Rosé Pine with Tilix](assets/rose-pine.png)
+
+### Rosé Pine Moon
+![Rosé Pine Moon with Tilix](assets/rose-pine-moon.png)
+
+### Rosé Pine Dawn
+![Rosé Pine Dawn with Tilix](assets/rose-pine-dawn.png)
 
 ## Thanks to
-
-- [You, it's you!](https://github.com/<username>)
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- https://github.com/annappropriate
+- https://github.com/rose-pine/alacritty

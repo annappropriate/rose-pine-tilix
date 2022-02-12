@@ -1,0 +1,33 @@
+{
+    "name": "Rosé Pine Moon",
+    "comment": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
+    "foreground-color": "#e0def4",
+    "background-color": "#232136",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#817c9c",
+    "highlight-background-color": "#393552",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#232136",
+    "cursor-background-color": "#825B65",
+    "use-badge-color": true,
+    "badge-color": "#393552",
+    "palette": [
+        "#817c9c",
+        "#eb6f92",
+        "#9ccfd8",
+        "#f6c177",
+        "#3e8fb0",
+        "#c4a7e7",
+        "#ea9a97",
+        "#e0def4",
+        "#6e6a86",
+        "#eb6f92",
+        "#9ccfd8",
+        "#f6c177",
+        "#31748f",
+        "#c4a7e7",
+        "#ebbcba",
+        "#e0def4"
+    ]
+}

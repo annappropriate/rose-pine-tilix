@@ -1,0 +1,33 @@
+{
+    "name": "Rosé Pine",
+    "comment": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
+    "foreground-color": "#e0def4",
+    "background-color": "#191724",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#6e6a86",
+    "highlight-background-color": "#26233a",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#191724",
+    "cursor-background-color": "#796268",
+    "use-badge-color": true,
+    "badge-color": "#ecc5ca",
+    "palette": [
+        "#6e6a86",
+        "#eb6f92",
+        "#9ccfd8",
+        "#f6c177",
+        "#31748f",
+        "#c4a7e7",
+        "#ebbcba",
+        "#e0def4",
+        "#6e6a86",
+        "#eb6f92",
+        "#9ccfd8",
+        "#f6c177",
+        "#31748f",
+        "#c4a7e7",
+        "#ebbcba",
+        "#e0def4"
+    ]
+}
