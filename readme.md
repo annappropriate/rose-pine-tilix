@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Tilix</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -34,5 +34,5 @@ All screenshots feature [NerdFetch](https://github.com/ThatOneCalculator/NerdFet
 ![Rosé Pine Dawn with Tilix](assets/rose-pine-dawn.png)
 
 ## Thanks to
-- https://github.com/annappropriate
+- [annappropriate](https://github.com/annappropriate)
 - https://github.com/rose-pine/alacritty
